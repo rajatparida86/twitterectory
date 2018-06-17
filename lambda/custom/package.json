@@ -1,0 +1,29 @@
+{
+  "name": "twitterectory",
+  "version": "1.0.0",
+  "description": "Alexa skill integration with Twitter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajatparida86/twitterectory.git"
+  },
+  "keywords": [
+    "alexa",
+    "twitter",
+    "skills"
+  ],
+  "author": "Rajat Parida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajatparida86/twitterectory/issues"
+  },
+  "homepage": "https://github.com/rajatparida86/twitterectory#readme",
+  "dependencies": {
+    "ask-sdk-core": "^2.0.0",
+    "ask-sdk-model": "^1.0.0",
+    "twitter": "^1.7.1"
+  }
+}
